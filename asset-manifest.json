@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/comabt-5e/static/css/main.5f361e03.chunk.css",
-    "main.js": "/comabt-5e/static/js/main.24d49c99.chunk.js",
-    "main.js.map": "/comabt-5e/static/js/main.24d49c99.chunk.js.map",
-    "runtime-main.js": "/comabt-5e/static/js/runtime-main.c48cf237.js",
-    "runtime-main.js.map": "/comabt-5e/static/js/runtime-main.c48cf237.js.map",
-    "static/js/2.b26307b8.chunk.js": "/comabt-5e/static/js/2.b26307b8.chunk.js",
-    "static/js/2.b26307b8.chunk.js.map": "/comabt-5e/static/js/2.b26307b8.chunk.js.map",
-    "index.html": "/comabt-5e/index.html",
-    "precache-manifest.1f752a8bf8c979cb35efe4fb4d239d6b.js": "/comabt-5e/precache-manifest.1f752a8bf8c979cb35efe4fb4d239d6b.js",
-    "service-worker.js": "/comabt-5e/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/comabt-5e/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b26307b8.chunk.js.LICENSE.txt": "/comabt-5e/static/js/2.b26307b8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/comabt-5e/static/media/logo.5d5d9eef.svg"
+    "main.css": "/combat-5e/static/css/main.5f361e03.chunk.css",
+    "main.js": "/combat-5e/static/js/main.e3961708.chunk.js",
+    "main.js.map": "/combat-5e/static/js/main.e3961708.chunk.js.map",
+    "runtime-main.js": "/combat-5e/static/js/runtime-main.747bceb1.js",
+    "runtime-main.js.map": "/combat-5e/static/js/runtime-main.747bceb1.js.map",
+    "static/js/2.b26307b8.chunk.js": "/combat-5e/static/js/2.b26307b8.chunk.js",
+    "static/js/2.b26307b8.chunk.js.map": "/combat-5e/static/js/2.b26307b8.chunk.js.map",
+    "index.html": "/combat-5e/index.html",
+    "precache-manifest.c54950cacb99f071fbdd2ea1c0cd3e1f.js": "/combat-5e/precache-manifest.c54950cacb99f071fbdd2ea1c0cd3e1f.js",
+    "service-worker.js": "/combat-5e/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/combat-5e/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b26307b8.chunk.js.LICENSE.txt": "/combat-5e/static/js/2.b26307b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/combat-5e/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c48cf237.js",
+    "static/js/runtime-main.747bceb1.js",
     "static/js/2.b26307b8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.24d49c99.chunk.js"
+    "static/js/main.e3961708.chunk.js"
   ]
 }
